@@ -1,8 +1,10 @@
 ---
 name:
   en: Primitive Era (GK)
+  de: Primitive Ära (GK)
 desc:
   en: Ported from Gorgeous King. Islands can be used to reset your direction on the main section, and portals will take you to the island on the opposite end.
+  de: Portiert aus Gorgeous King. Inseln können verwendet werden, um die Richtung im Hauptabschnitt zurückzusetzen und Portale bringen Dich zur Insel am gegenüberliegenden Ende.
 ruleSet: Standard
 theme: DragonQuest
 initialCash: 2000

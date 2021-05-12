@@ -1,8 +1,10 @@
 ---
 name:
   en: Venn Diagram
+  De: Venn-Diagramm
 desc:
   en: A map with a layout that looks like a vendiagram.
+  de: Eine Karte mit einem Layout, das wie ein Venn-Diagramm aussieht.
 ruleSet: Standard
 theme: Mario
 initialCash: 1600

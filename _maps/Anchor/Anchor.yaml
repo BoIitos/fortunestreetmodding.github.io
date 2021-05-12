@@ -1,8 +1,10 @@
 ---
 name:
   en: Anchor
+  de: Anker
 desc:
   en: The symbol that represents stability. Be the most stable and you will emerge victorious.
+  de: Das Symbol für Stabilität. Sei am stabilsten und du wirst als Sieger hervorgehen.
 ruleSet: Standard
 theme: DragonQuest
 initialCash: 1700

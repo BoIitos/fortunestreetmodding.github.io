@@ -1,9 +1,11 @@
 ---
 name:
   en: Inside Out
+  de: Das Innere nach außen
   fr: Inside Out
 desc:
   en: A map with two forms where districts close to the bank get further and vice-versa. All doors and pipes lead to the bank.
+  de: Eine Karte mit zwei Formen, auf der Bezirke mal in der Nähe der Bank und mal weiter weg sind. Alle Türen und Rohre führen zur Bank.
   fr: Une carte à deux formes où les quartiers proches de la banque s'en éloignent et vice-versa. Tous les tuyaux et portes renvoient à la banque.
 ruleSet: Standard
 theme: Mario

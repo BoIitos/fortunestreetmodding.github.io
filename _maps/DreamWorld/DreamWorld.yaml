@@ -1,8 +1,10 @@
 ---
 name:
   en: Dream World (IS2)
+  de: Traumwelt (IS2)
 desc:
   en: Dream World remade from Itadaki Street 2.
+  de: Traumwelt aus Itadaki Street 2 neu gemacht.
 ruleSet: Standard
 theme: DragonQuest
 initialCash: 2000

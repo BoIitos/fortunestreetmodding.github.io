@@ -1,8 +1,10 @@
 ---
 name:
   en: Cloverland (IS2)
+  de: Kleeblattland (IS2)
 desc:
   en: Originally from Itadaki Street 2. A large simple board with three loops. Map file was included in unused files, but has had shop prices adjusted and made playable.
+  de: Ursprünglich aus Itadaki Street 2. Ein großes einfaches Brett mit drei Schleifen. Die Karte war in den nicht verwendeten Dateien enthalten, die Shop-Preise wurden jedoch angepasst und spielbar gemacht.
 ruleSet: Standard
 theme: DragonQuest
 initialCash: 2000

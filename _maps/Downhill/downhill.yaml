@@ -1,8 +1,10 @@
 ---
 name: 
   en: Downhill
+  de: Bergab
 desc: 
   en: If you really hate large districts, here's a challenge. Almost every district has 5 shops in it. The cannon's a beast on this map, too.
+  de: Wenn Du große Bezirke wirklich hasst, ist hier eine Herausforderung: Fast jeder Bezirk hat 5 Geschäfte. Die Kanone ist auch auf dieser Karte ein Biest.
 ruleSet: Standard
 theme: Mario
 initialCash: 3000

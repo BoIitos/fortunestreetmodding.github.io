@@ -1,8 +1,10 @@
 ---
 name:
   en: Playground
+  de: Spielplatz
 desc:
   en: There's lots of activities at the playground! Nothing dangerous or hazardous here, so enjoy! Oh, and don't lose your wallet obviously.
+  de: Es gibt viele Aktivitäten auf dem Spielplatz! Hier ist nichts Gefährliches oder Riskantes, also viel Spaß! Oh, und verliere deinen Geldbeutel nicht.
 ruleSet: Standard
 theme: Mario
 initialCash: 1500

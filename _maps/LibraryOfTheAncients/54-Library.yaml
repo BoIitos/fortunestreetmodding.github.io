@@ -1,8 +1,10 @@
 ---
 name:
   en: Library of the Ancients (Portable)
+  de: Bibliothek der Alten (Portable)
 desc:
   en: Originally from Itadaki Street Portable. Based on the location from Final Fantasy V. A compact board with lots of paths.
+  de: Ursprünglich aus Itadaki Street Portable. Basierend auf dem Standort von Final Fantasy V. Ein kompaktes Brett mit vielen Pfaden.
 ruleSet: Standard
 theme: DragonQuest
 initialCash: 1600

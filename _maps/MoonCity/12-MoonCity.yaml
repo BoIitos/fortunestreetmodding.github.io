@@ -1,8 +1,10 @@
 ---
 name:
   en: Moon City (IS2)
+  de: Mondstadt (IS2)
 desc:
   en: Originally from Itadaki Street 2. A simple board with two straight lines that loop around.
+  de: Ursprünglich aus Itadaki Street 2. Ein einfaches Brett mit zwei umlaufenden geraden Linien.
 ruleSet: Standard
 theme: Mario
 initialCash: 1500

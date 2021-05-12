@@ -1,8 +1,10 @@
 ---
 name:
   en: Bakerman
+  de: Der Bäcker
 desc:
   en: is baking bread.
+  de: bäckt Brot.
 ruleSet: Standard
 theme: Mario
 initialCash: 1500

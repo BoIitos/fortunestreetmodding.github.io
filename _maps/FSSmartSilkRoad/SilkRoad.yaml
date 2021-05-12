@@ -1,9 +1,11 @@
 ---
 name:
   en: Silk Road (Mobile)
+  de: Seidenstraße (Mobile)
   jp: シルクロード
 desc:
   en: Originally from Itadaki Street Mobile. A famous trade route connecting the Far East with the Western world.
+  de: Ursprünglich aus Itadaki Street Mobile. Eine berühmte Handelsroute, die den Fernen Osten mit der westlichen Welt verbindet."
   jp: シルクロード：　東洋と西洋を結ぶ有名な交易路。
 ruleSet: Standard
 theme: DragonQuest

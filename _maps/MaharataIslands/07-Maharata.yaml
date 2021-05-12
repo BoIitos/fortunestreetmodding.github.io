@@ -1,8 +1,10 @@
 ---
 name:
   en: Maharata Islands (IS1)
+  de: Maharata Inseln (IS1)
 desc:
   en: Originally from Itadaki Street 1. Pay attention to the 5-shop district!
+  de: Ursprünglich aus Itadaki Street 1. Achte auf den 5-Shop-Bezirk!
 ruleSet: Standard
 theme: DragonQuest
 initialCash: 1500

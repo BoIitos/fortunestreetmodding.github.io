@@ -1,8 +1,10 @@
 ---
 name:
   en: Rabanastre (Special)
+  de: Rabanastre (Special)
 desc:
   en: Originally from Itadaki Street Special. Based on the location from Final Fantasy XII. A fun board with lots of options.
+  de: Ursprünglich aus Itadaki Street Special. Basierend auf dem Ort aus Final Fantasy XII. Ein lustiges Board mit vielen Optionen.
 ruleSet: Standard
 theme: DragonQuest
 initialCash: 1800

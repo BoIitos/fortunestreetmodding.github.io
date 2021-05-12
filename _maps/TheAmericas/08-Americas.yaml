@@ -1,8 +1,10 @@
 ---
 name:
   en: The Americas (IS1)
+  de: Die Amerikaner (IS1)
 desc:
   en: Originally from Itadaki Street 1. A large board based on America, with a valuable Hawaii island that's hard to reach. 1:1 port was impossible, made closest approximation within limits of the game.
+  de: Ursprünglich aus Itadaki Street 1. Ein große Brett basierend auf Amerika mit einer wertvollen Hawaii-Insel, die schwer zu erreichen ist. 1:1-Port war unmöglich und wurde innerhalb der Grenzen des Spiels bestmöglich umgesetzt.
 ruleSet: Standard
 theme: DragonQuest
 initialCash: 2000

@@ -1,8 +1,10 @@
 ---
 name:
   en: Zapata's Geoglyph (GK)
+  de: Zapatas Geoglyphe (GK)
 desc:
   en: Ported from Gorgeous King. Traverse back-and-forth between both glyphs to obtain all four suits!
+  de: Portiert aus Gorgeous King. Wechseln Sie zwischen beiden Glyphen hin und her, um alle vier Farben zu erhalten!
 ruleSet: Standard
 theme: DragonQuest
 initialCash: 1500

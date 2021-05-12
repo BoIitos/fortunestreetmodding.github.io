@@ -1,8 +1,10 @@
 ---
 name:
   en: Crossroads
+  de: Kreuzung
 desc:
   en: You can only go straight when entering the middle of this board, unless you can land directly where the roads cross.
+  de: Sie können nur geradeaus gehen, wenn Sie in die Mitte dieses Bretts gelangen, es sei denn, Sie können direkt dort landen, wo sich die Straßen kreuzen.
 ruleSet: Standard
 theme: Mario
 initialCash: 1800
